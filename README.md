@@ -1,0 +1,2 @@
+# MSAgents-Characters
+Yes
